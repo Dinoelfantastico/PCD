@@ -1,0 +1,130 @@
+D:\PC\Product\bin\Debug\net6.0\appsettings.Development.json
+D:\PC\Product\bin\Debug\net6.0\appsettings.json
+D:\PC\Product\bin\Debug\net6.0\Product.exe
+D:\PC\Product\bin\Debug\net6.0\Product.deps.json
+D:\PC\Product\bin\Debug\net6.0\Product.runtimeconfig.json
+D:\PC\Product\bin\Debug\net6.0\Product.dll
+D:\PC\Product\bin\Debug\net6.0\Product.pdb
+D:\PC\Product\bin\Debug\net6.0\AutoMapper.dll
+D:\PC\Product\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\PC\Product\bin\Debug\net6.0\Humanizer.dll
+D:\PC\Product\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\PC\Product\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\PC\Product\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\PC\Product\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\PC\Product\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\PC\Product\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\PC\Product\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\PC\Product\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\PC\Product\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\PC\Product\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\PC\Product\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\PC\Product\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\PC\Product\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\PC\Product\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\PC\Product\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\PC\Product\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\PC\Product\bin\Debug\net6.0\Swashbuckle.AspNetCore.Annotations.dll
+D:\PC\Product\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\PC\Product\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\PC\Product\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\PC\Product\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\PC\Product\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\PC\Product\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\PC\Product\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\PC\Product\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\PC\Product\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\PC\Product\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\PC\Product\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\PC\Product\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\PC\Product\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PC\Product\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PC\Product\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PC\Product\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PC\Product\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\PC\Product\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\PC\Product\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\PC\Product\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\PC\Product\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\PC\Product\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\PC\Product\obj\Debug\net6.0\Product.csproj.AssemblyReference.cache
+D:\PC\Product\obj\Debug\net6.0\Product.GeneratedMSBuildEditorConfig.editorconfig
+D:\PC\Product\obj\Debug\net6.0\Product.AssemblyInfoInputs.cache
+D:\PC\Product\obj\Debug\net6.0\Product.AssemblyInfo.cs
+D:\PC\Product\obj\Debug\net6.0\Product.csproj.CoreCompileInputs.cache
+D:\PC\Product\obj\Debug\net6.0\Product.MvcApplicationPartsAssemblyInfo.cs
+D:\PC\Product\obj\Debug\net6.0\Product.MvcApplicationPartsAssemblyInfo.cache
+D:\PC\Product\obj\Debug\net6.0\staticwebassets.build.json
+D:\PC\Product\obj\Debug\net6.0\staticwebassets.development.json
+D:\PC\Product\obj\Debug\net6.0\scopedcss\bundle\Product.styles.css
+D:\PC\Product\obj\Debug\net6.0\Product.csproj.CopyComplete
+D:\PC\Product\obj\Debug\net6.0\Product.dll
+D:\PC\Product\obj\Debug\net6.0\refint\Product.dll
+D:\PC\Product\obj\Debug\net6.0\Product.pdb
+D:\PC\Product\obj\Debug\net6.0\Product.genruntimeconfig.cache
+D:\PC\Product\obj\Debug\net6.0\ref\Product.dll
+D:\PC - Backend\Product\bin\Debug\net6.0\appsettings.Development.json
+D:\PC - Backend\Product\bin\Debug\net6.0\appsettings.json
+D:\PC - Backend\Product\bin\Debug\net6.0\Product.exe
+D:\PC - Backend\Product\bin\Debug\net6.0\Product.deps.json
+D:\PC - Backend\Product\bin\Debug\net6.0\Product.runtimeconfig.json
+D:\PC - Backend\Product\bin\Debug\net6.0\Product.dll
+D:\PC - Backend\Product\bin\Debug\net6.0\Product.pdb
+D:\PC - Backend\Product\bin\Debug\net6.0\AutoMapper.dll
+D:\PC - Backend\Product\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\PC - Backend\Product\bin\Debug\net6.0\Humanizer.dll
+D:\PC - Backend\Product\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\PC - Backend\Product\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\PC - Backend\Product\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\PC - Backend\Product\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\PC - Backend\Product\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\PC - Backend\Product\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\PC - Backend\Product\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\PC - Backend\Product\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\PC - Backend\Product\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\PC - Backend\Product\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\PC - Backend\Product\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\PC - Backend\Product\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\PC - Backend\Product\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\PC - Backend\Product\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\PC - Backend\Product\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\PC - Backend\Product\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\PC - Backend\Product\bin\Debug\net6.0\Swashbuckle.AspNetCore.Annotations.dll
+D:\PC - Backend\Product\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\PC - Backend\Product\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\PC - Backend\Product\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\PC - Backend\Product\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\PC - Backend\Product\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\PC - Backend\Product\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\PC - Backend\Product\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\PC - Backend\Product\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\PC - Backend\Product\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\PC - Backend\Product\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\PC - Backend\Product\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\PC - Backend\Product\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\PC - Backend\Product\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PC - Backend\Product\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PC - Backend\Product\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PC - Backend\Product\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PC - Backend\Product\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\PC - Backend\Product\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\PC - Backend\Product\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\PC - Backend\Product\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\PC - Backend\Product\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\PC - Backend\Product\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\PC - Backend\Product\obj\Debug\net6.0\Product.csproj.AssemblyReference.cache
+D:\PC - Backend\Product\obj\Debug\net6.0\Product.GeneratedMSBuildEditorConfig.editorconfig
+D:\PC - Backend\Product\obj\Debug\net6.0\Product.AssemblyInfoInputs.cache
+D:\PC - Backend\Product\obj\Debug\net6.0\Product.AssemblyInfo.cs
+D:\PC - Backend\Product\obj\Debug\net6.0\Product.csproj.CoreCompileInputs.cache
+D:\PC - Backend\Product\obj\Debug\net6.0\Product.MvcApplicationPartsAssemblyInfo.cs
+D:\PC - Backend\Product\obj\Debug\net6.0\Product.MvcApplicationPartsAssemblyInfo.cache
+D:\PC - Backend\Product\obj\Debug\net6.0\staticwebassets.build.json
+D:\PC - Backend\Product\obj\Debug\net6.0\staticwebassets.development.json
+D:\PC - Backend\Product\obj\Debug\net6.0\scopedcss\bundle\Product.styles.css
+D:\PC - Backend\Product\obj\Debug\net6.0\Product.csproj.CopyComplete
+D:\PC - Backend\Product\obj\Debug\net6.0\Product.dll
+D:\PC - Backend\Product\obj\Debug\net6.0\refint\Product.dll
+D:\PC - Backend\Product\obj\Debug\net6.0\Product.pdb
+D:\PC - Backend\Product\obj\Debug\net6.0\Product.genruntimeconfig.cache
+D:\PC - Backend\Product\obj\Debug\net6.0\ref\Product.dll
